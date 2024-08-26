@@ -1,7 +1,7 @@
 {
   "name": "hello-world-javascript-action",
   "description": "This action prints `Hello, World!` or `Hello, <who-to-greet>!` to the log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "",
   "private": true,
   "homepage": "https://github.com/actions/hello-world-javascript-action#readme",
